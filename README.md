@@ -20,7 +20,7 @@ This workshop aims to introduce clinicians to popular statistical methods used i
 No. | Section  | Links
 --- | -------- | --------
 (1) | Lecture  | [Slides](lecture/Slides.pdf), [Handout](lecture/handout.md)
-(2) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), [Solutions](python/Solutions_python.ipynb)
+(2) | Python   | [Dataset](python/births.csv), [Notebook](python/Python.ipynb), [Solutions](python/Python_Solutions.ipynb)
 (3) | Sample   | [Dataset](sample/lungsample.csv), [Notebook](sample/Lung.ipynb)
 (4) | Exercise | [Dataset](exercise/leukemia.csv), [Notebook](exercise/Leukemia.ipynb), [Solutions](exercise/Solutions.ipynb)
 
